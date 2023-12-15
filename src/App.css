@@ -24,14 +24,21 @@
   color: white;
 }
 
+.ListContainer {
+  display: inline-block;
+  border: 1px solid black;
+}
 .List {
-  background-color: #282c34;
-  min-height: 5vh;
-  max-width: 30%;
+  display: inline-block;
+  background-color: lightyellow;
+  /* min-height: 1vh; */
   display: flex;
   flex-direction: column;
   align-items: left;
   justify-content: center;
-  font-size: 3rem;
-  color: white;
+  font-size: 1.5rem;
+  color: blue;
+  font-weight: bold;
+  margin: 1rem;
+  /* border: 1px solid black; */
 }
