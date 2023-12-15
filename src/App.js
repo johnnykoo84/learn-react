@@ -18,31 +18,6 @@ function App() {
   console.clear();
   console.log("sentences", posts);
 
-  // hard code text array example
-  // const posts = [
-  //   { id: 1, title: "Hello World", content: "Welcome to learning React!" },
-  //   { id: 2, title: "Installation", content: "You can install React via npm." },
-  //   {
-  //     id: 3,
-  //     title: "reusable component",
-  //     content: "render easy with reusable component.",
-  //   },
-  //   {
-  //     id: 4,
-  //     title: "React",
-  //     content:
-  //       "React is a JavaScript library for building user interfaces. It is maintained by Facebook and a community of individual developers and companies. React can be used as a base in the development of single-page or mobile applications. However, React is only concerned with state management and rendering that state to the DOM, so creating React applications usually requires the use of additional libraries for routing, as well as certain client-side functionality. React Router is an example of such a library. Redux, MobX, and Relay are examples of other libraries that are frequently used in React applications for state management. With React Native, React's capabilities are also available to native iOS and Android applications.",
-  //   },
-  //   {
-  //     id: 5,
-  //     title: "React",
-  //     content:
-  //       "React is a JavaScript library for building user interfaces. It is maintained by Facebook and a community of individual developers and companies. React can be used as a base in the development of single-page or mobile applications. However, React is only concerned with state management and rendering that state to the DOM, so creating React applications usually requires the use of additional libraries for routing, as well as certain client-side functionality. React Router is an example of such a library. Redux, MobX, and Relay are examples of other libraries that are frequently used in React applications for state management. With React Native, React's capabilities are also available to native iOS and Android applications.",
-  //   },
-
-  //   { id: 100, title: "I just got hired!", content: "OMG!" },
-  // ];
-
   // return jsx here
   return (
     <>
